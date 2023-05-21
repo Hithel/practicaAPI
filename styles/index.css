@@ -1,0 +1,17 @@
+.logoContainer{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoContainer img{
+    width: 9rem;
+    height: 3rem;
+}
+
+#cards img {
+    width: 250px;
+    height: 250PX;
+    
+}
